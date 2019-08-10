@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: seongjin571-blog
 tagline: My friends.
 permalink: /links.html
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tags
-tagline: （ • ̀ω•́ ） 这里竟然是标签哎！
+tagline: #부스트코스 #웹UI개발
 ---
 <article>
 
@@ -15,7 +15,7 @@ tagline: （ • ̀ω•́ ） 这里竟然是标签哎！
   {% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
     <h2 id="{{ this_word | cgi_escape }}" class="tag-title">
-      #{{ this_word }}
+      #부스트코스 #웹UI개발
     </h2>
     <!-- lists all posts corresponding to specific tag -->
     {% for post in site.tags[this_word] %}
