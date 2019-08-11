@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello World!
-tags: Hydrogen
+title: 웹 UI 개발 프로젝트A-2
+tags: 부스트코스 웹UI개발
 stickie: true
 ---
 
